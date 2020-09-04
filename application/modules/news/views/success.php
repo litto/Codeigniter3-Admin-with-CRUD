@@ -1,0 +1,1 @@
+<h1> News Posted Successfully</h1>
